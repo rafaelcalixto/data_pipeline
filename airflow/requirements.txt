@@ -1,0 +1,8 @@
+apache-airflow[celery]==2.6.1
+psycopg2-binary==2.9.3
+pandas==1.3.3
+celery
+redis
+setuptools
+python-daemon
+airflow-dbt
